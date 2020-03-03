@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/untitled.dir/main.cpp.o CMakeFiles/untitled.dir/Grafos/Grafo.cpp.o CMakeFiles/untitled.dir/Grafos/Nodo.cpp.o CMakeFiles/untitled.dir/Grafos/Arco.cpp.o CMakeFiles/untitled.dir/Server/SvMain.cpp.o CMakeFiles/untitled.dir/GUI/ClientCom.cpp.o  -o untitled 
